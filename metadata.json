@@ -1,0 +1,6 @@
+{
+  "name": "My Teaching AI",
+  "description": "A personal conversational AI student you can teach by voice or text, with persistent lessons, procedures, corrections, and task execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
